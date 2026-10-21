@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "postProfile": "Java Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "2",
+      "postProfile": "Ts Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "3",
+      "postProfile": "Js Developer",
+      "postDesc": "should be good",
+      "reqExperience": 5,
+      "postTechStack": [
+        "Java",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": "eVkdmANdNaI"
+    },
+    {
+      "id": "5obind48Utg",
+      "postProfile": "Video Editor",
+      "postDesc": "should be good",
+      "reqExperience": 3,
+      "postTechStack": [
+        "VN",
+        "CapCut",
+        "Davinci"
+      ]
+    },
+    {
+      "id": "qWwhuG5gxSo",
+      "postProfile": "Video Editor",
+      "postDesc": "should be good",
+      "reqExperience": 3,
+      "postTechStack": [
+        "VN",
+        "CapCut",
+        "Davinci"
+      ]
+    },
+    {
+      "id": "CjzmLd8xUHQ",
+      "postProfile": "Video Editor",
+      "postDesc": "should be good",
+      "reqExperience": 3,
+      "postTechStack": [
+        "VN",
+        "CapCut",
+        "Davinci"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
